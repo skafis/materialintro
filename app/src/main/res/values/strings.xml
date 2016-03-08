@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialIntro</string>
+    <string name="title_1">Welcome</string>
+    <string name="description_1">This is just a simple app</string>
+</resources>
